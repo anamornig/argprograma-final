@@ -1,0 +1,124 @@
+{
+    "name": "Ana Moruja",
+    "backimage": "http://",
+    "profileImage": "https://media-exp1.licdn.com/dms/image/C4E03AQEdjs4L9rJ6fQ/profile-displayphoto-shrink_800_800/0/1651350674722?e=1665619200&v=beta&t=y1lBQWByc5sKmFb4b0DBaQZBTRCaIFNz_f3khHRwzKg",
+    "position": "Fulfillment Specialist",
+    "company": {
+        "name": "Swappie",
+        "img": "http://",
+        "url": "http://"
+    },
+    "school": {
+        "name" : "UBA",
+        "img" : "http://",
+        "url" : "http://"
+    },
+    "location": "Leipzig, Alemania",
+    "about": "Bilingüe, trabajadora, y lista para unirme a mi próximo equipo. Con actitud motivada y una variedad de habilidades eficaces para promover la misión de su empresa. Capaz de autogestionarme de manera efectiva durante proyectos independientes, así como colaborar en un entorno de equipo.",
+    "experience": [
+        {
+            "company": "Swappie",
+            "title": "Fulfillment Specialist",
+            "img" : "https://media-exp1.licdn.com/dms/image/C4E22AQGfqssG6ztOIQ/feedshare-shrink_2048_1536/0/1654259591406?e=2147483647&v=beta&t=mLi5JAusKMaaHIs8DDEvzVFfL3OMMtn2A7H2Pl6S5Q4",
+            "years" : "2022",
+            "city" : "Leipzig",
+            "description" : "Responsable de más de 300 ordenes diarias logrando una excelente satisfacción de los clientes. Cumplo con plazos exigentes y trabajo en equipo constantemente. Me encargo de gestionar las ordenes manuales contactándome con el servicio al cliente y entreno a los nuevos empleados. Además, trabajo en un ambiente de habla inglesa"
+        },
+        {
+            "company": "Defensoria del Pueblo CABA",
+            "title": "Fotografa y editora de video",
+            "img":"data:image/png;base64,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",
+            "years":"2017 - 2022",
+            "city":"Buenos Aires",
+            "description":"Creadora de contenido para el equipo audiovisual. Participé en roles como operadora de cámara, piloto de drone, fotógrafa y maquilladora. Principalmente desarrollé mis habilidades como editora de video y Motion Graphics Designer."
+        },
+        {
+            "company": "Frente de Todos",
+            "title": "Fotografa en campaña electoral",
+            "img": "https://www.electoralsalta.gob.ar/JSON/Escrutinio/2021G/Fotos/3646.jpg",
+            "years":"2021",
+            "city":"Buenos Aires",
+            "description":"Trabajé en un gran equipo para generar contenido todos los días, arreglando sesiones fotográficas, tareas de fotoperiodismo y editando fotos para las Redes Sociales."
+
+        },
+        {
+            "company": "Freelance",
+            "title": "Fotografa",
+            "img":"https://scontent-ber1-1.xx.fbcdn.net/v/t1.6435-9/122814842_186090739750288_7442940518923418271_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=cxTzKi8RYdQAX_CZjju&_nc_ht=scontent-ber1-1.xx&oh=00_AT9QN7RcJSQqPJnlKZdbmNjyNDnVRubIT6xy99rQBhjpjQ&oe=63602EA8",
+            "years": "2019-2022",
+            "city":"Buenos Aires - Leipzig",
+            "description":"Manejo las ventas, marketing y las mismas sesiones fotográficas. Superviso todos los aspectos de la post-producción, desde la edición, retoque, hasta la entrega final al cliente."
+        }
+
+    ],
+    "education": [
+        {
+            "school":"Escuela de Fotografia Creativa",
+            "title":"Tecnica superior en Fotografia Creativa",
+            "years":"2017 - 2020",
+            "city":"Buenos Aires",
+            "description":"Aprendí todos los aspectos técnicos de la fotografía, como manejar diferentes cámaras digitales, utilizar luces de estudio. Retratar, ajustar equipamiento e iluminación para lograr los efectos deseados. Participé en 3 exposiciones con mi trabajo.",
+            "img":"https://cdn.domestika.org/c_pad,dpr_auto,f_auto,h_150,q_auto,w_150/v1482425296/school-logos/000/001/241/1241-original.jpg?1482425296"
+
+        },
+        {
+            "school":"Universidad de Buenos Aires",
+            "title":"Diploma en Fotografia Social",
+            "years":"2019",
+            "city":"Buenos Aires",
+            "description":"Desarrollo de proyectos e investigación fotográfica. Edición y curaduría de producciones enfocado en visibilidad social.",
+            "img":"https://museodeladeuda.econ.uba.ar/wp-content/uploads/2014/10/Logo-UBA-nuevo-blanco.png"
+
+        },
+        {
+            "school":"Universidad Nacional de las Artes",
+            "title": "Licenciatura en Artes Audiovisuales",
+            "years": "2016 - ",
+            "city":"Buenos Aires",
+            "description":"Orientación en Iluminación y cámara. 12/55 materias aprobadas.",
+            "img":"https://study.buenosaires.gob.ar/webroot/files/crop_upload/1554130483.png"
+        },
+        {
+            "school":"Colegio Nacional de Buenos Aires",
+            "title": "Escuela secundaria, Bachiller",
+            "years": "2011 - 2015",
+            "city":"Buenos Aires",
+            "description":" ",
+            "img":"https://media-exp1.licdn.com/dms/image/C4D0BAQGNg_uVdB2IPA/company-logo_200_200/0/1562982119895?e=2159024400&v=beta&t=LsBQrfSdaYuzKKKp8_bSXinvJgsdYRVd3VRNCt2ME8w"
+        }
+    ],
+    "courses":[
+    
+        {
+            "title": "Full Stack Development",
+            "school":"Argentina Programa",
+            "years":"2021-2022"
+        },
+        {
+            "title":"Web Development, Javascript y Python",
+            "school":"Coderhouse",
+            "years":"2021-2022"
+        },
+        {
+            "title":"UX UI Design",
+            "school":"Codo a Codo 4.0",
+            "years":"2022"
+        }
+    ],
+    "skills":"Adobe Premiere Pro - Adobe After Effects - Git / Github - jQuery - Adobe Illustrator - Microsoft Office - Adobe Photoshop- HTML & CSS - JavaScript - Python - MySQL - Motion Graphics- Drone piloting - Diseño UX/UI - Canva - Manejo de Redes Sociales - Comunicación - Creación de contenido",
+    "languages":[
+        {
+            "language":"Español",
+            "level":"Nativo"
+        },
+        {
+            "language":"Inglés",
+            "level":"C2"
+        },
+        {
+            "language":"Francés",
+            "level":"A2"
+        }
+    ]
+    
+}

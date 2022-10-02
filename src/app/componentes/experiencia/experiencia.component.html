@@ -4,38 +4,17 @@
         <h3>Experiencia</h3>
     </div>
     <div class="lista">
-        <div class="container item">
-            <img class="logo-lista" src="https://yt3.ggpht.com/ytc/AKedOLS5_Rj9c2ullYzIwhjTT2Zq1kLmsbUGs6LQwSOSKw=s900-c-k-c0x00ffffff-no-rj" alt=""><!--img logo empresa-->
-            <div class="title-desc">
-                <h4>Photographer and Video Editor</h4>
-                <h5>Defensoria del Pueblo</h5> <h5>2017 - 2022</h5>
-                <p>Content creator for the audiovisual team. I performed roles
-                    such as camera operator, drone pilot, photographer and
-                    makeup artist. Mainly, I developed my abilities as a video editor
-                    and motion graphics designer.</p>
+        <li *ngFor="let experience of experienciaList">
+            <div class="container item">
+                <img class="logo-lista" [src]="experience.img" alt=""><!--img logo empresa-->
+                <div class="title-desc">
+                    <h4>{{experience.title}}</h4>
+                    <h5>{{experience.company}}</h5> <h5>{{experience.years}}</h5>
+                    <h6>{{experience.city}}</h6>
+                    <p>{{experience.description}}</p>
+                </div>
             </div>
-        </div>
-        <div class="container item">
-            <img class="logo-lista" src="https://yt3.ggpht.com/ytc/AKedOLS5_Rj9c2ullYzIwhjTT2Zq1kLmsbUGs6LQwSOSKw=s900-c-k-c0x00ffffff-no-rj" alt=""><!--img logo empresa-->
-            <div class="title-desc">
-                <h4>Photographer and Video Editor</h4>
-                <h5>Defensoria del Pueblo</h5> <h5>2017 - 2022</h5>
-                <p>Content creator for the audiovisual team. I performed roles
-                    such as camera operator, drone pilot, photographer and
-                    makeup artist. Mainly, I developed my abilities as a video editor
-                    and motion graphics designer.</p>
-            </div>
-        </div>
-        <div class="container item">
-            <img class="logo-lista" src="https://yt3.ggpht.com/ytc/AKedOLS5_Rj9c2ullYzIwhjTT2Zq1kLmsbUGs6LQwSOSKw=s900-c-k-c0x00ffffff-no-rj" alt=""><!--img logo empresa-->
-            <div class="title-desc">
-                <h4>Photographer and Video Editor</h4>
-                <h5>Defensoria del Pueblo</h5> <h5>2017 - 2022</h5>
-                <p>Content creator for the audiovisual team. I performed roles
-                    such as camera operator, drone pilot, photographer and
-                    makeup artist. Mainly, I developed my abilities as a video editor
-                    and motion graphics designer.</p>
-            </div>
-        </div>
+        </li>
+
     </div>
-  </section>
+</section>

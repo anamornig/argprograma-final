@@ -50,6 +50,8 @@ header {
 .logo-lista{
     width: 100px;
     height: 100px;
+    object-fit: cover;
+    
 }
 
 #imgperfil{
@@ -110,4 +112,8 @@ max-height: 1500px;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+li{
+    list-style-type: none;
 }
