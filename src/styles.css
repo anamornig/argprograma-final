@@ -1,1 +1,113 @@
-/* You can add global styles to this file, and also import other style files */
+header {
+    background-color: yellow;
+    display: block;
+    padding: 60px;
+    overflow: auto;
+
+}
+
+
+#left-header{
+    float:left;
+    display: inline;
+
+
+}
+
+#right-header{
+    float: right;
+    display: inline;
+}
+
+/* Style all font awesome icons */
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+.logo-lista{
+    width: 100px;
+    height: 100px;
+}
+
+#imgperfil{
+    max-width: 150px;
+    border-radius: 50%;
+    
+}
+
+#banner {
+max-height: 1500px;
+    max-width: 100%;
+    overflow: auto;
+    padding: 60px;
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://media-exp1.licdn.com/dms/image/C4E16AQGBryy_yypFlA/profile-displaybackgroundimage-shrink_350_1400/0/1652264017996?e=1665619200&v=beta&t=g110nxAcf3tb84eWkhF-VeLT-5qWJThcVWdwoZW2IA4");
+
+}
+
+#perfil-derecho{
+    display: block;
+    color: white;
+    align-items: center;
+    overflow: auto;
+    text-align: center;
+
+}
+
+#perfil-izquierdo{
+    margin: 40px;
+    justify-content: left;
+    align-items: center;
+    overflow: auto;
+    text-align: center;
+}
+
+.minititle{
+    background-color:green;
+    color: white;
+    margin:20px;
+}
+
+.item{
+    display: flex;
+}
+
+.img-proyecto{
+    max-width: 400px;
+    max-height: 200px;
+    background-color: white;
+    border-radius: 20px;
+    font-size: 20px;
+    align-items: center;
+    margin: 15px;
+    overflow: hidden;
+    float: left;
+}
+
+.proyecto{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
