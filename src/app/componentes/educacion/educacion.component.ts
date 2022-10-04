@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { PortfoliService } from 'src/app/servicios/portfoli.service';
 
-
 @Component({
   selector: 'app-educacion',
   templateUrl: './educacion.component.html',
@@ -9,7 +8,7 @@ import { PortfoliService } from 'src/app/servicios/portfoli.service';
 })
 export class EducacionComponent implements OnInit {
   educacionList:any;
-
+  education:any;
   constructor(private datosPortfolio:PortfoliService) { }
 
   ngOnInit(): void {

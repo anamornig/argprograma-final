@@ -1,10 +1,17 @@
 
 <section class="container" id="skills">
     <div class="minititle">
-    <h3>Hard & Soft Skills</h3>
+    <h3>Skills</h3>
     </div>
     <div>
-        <p>idiomas</p>
+        <li *ngFor="let languages of languageList">
+            <div class="container item">
+                <div class="title-desc">
+                    <h4>{{languages.language}}</h4>
+                    <h5>{{languages.level}}</h5> 
+                </div>
+            </div>
+        </li>
     </div>
 
 </section>
