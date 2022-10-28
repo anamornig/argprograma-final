@@ -12,6 +12,10 @@ import { ProyectosComponent } from './componentes/proyectos/proyectos.component'
 import { FooterComponent } from './componentes/footer/footer.component';
 import { HttpClientModule } from '@angular/common/http';
 import { CursosComponent } from './componentes/cursos/cursos.component';
+import { IniciarSesionComponent } from './componentes/iniciar-sesion/iniciar-sesion.component';
+import { PortfolioComponent } from './componentes/portfolio/portfolio.component';
+import { AppRoutingModule } from './app-routing.module';
+import { FormBuilder, FormGroup, ReactiveFormsModule, Validators} from '@angular/forms';
 
 
 @NgModule({
@@ -26,10 +30,14 @@ import { CursosComponent } from './componentes/cursos/cursos.component';
     ProyectosComponent,
     FooterComponent,
     CursosComponent,
+    IniciarSesionComponent,
+    PortfolioComponent,
   ],
   imports: [
     BrowserModule,
-    HttpClientModule
+    HttpClientModule,
+    AppRoutingModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
