@@ -14,7 +14,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { CursosComponent } from './componentes/cursos/cursos.component';
 import { PortfolioComponent } from './componentes/portfolio/portfolio.component';
 import { AppRoutingModule } from './app-routing.module';
-import { FormBuilder, FormGroup, ReactiveFormsModule, Validators, FormsModule } from '@angular/forms';
+import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { interceptorProvider } from './servicios/interceptor-service';
 
 
@@ -37,7 +37,7 @@ import { interceptorProvider } from './servicios/interceptor-service';
     HttpClientModule,
     AppRoutingModule,
     ReactiveFormsModule,
-    FormsModule
+    FormsModule,
   ],
   providers: [
     interceptorProvider
