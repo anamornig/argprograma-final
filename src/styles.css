@@ -1,3 +1,11 @@
+.fa {
+    color: green;
+}
+
+.fab{
+    color: green;
+}
+
 header {
     background-color: yellow;
     display: block;
@@ -65,7 +73,7 @@ max-height: 1500px;
     max-width: 100%;
     overflow: auto;
     padding: 60px;
-    background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://media-exp1.licdn.com/dms/image/C4E16AQGBryy_yypFlA/profile-displaybackgroundimage-shrink_350_1400/0/1652264017996?e=1665619200&v=beta&t=g110nxAcf3tb84eWkhF-VeLT-5qWJThcVWdwoZW2IA4");
+    background-image:  linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://64.media.tumblr.com/bc8bcc4539ce8affa01d6f47089ec066/tumblr_p6kp5torle1wwzdano1_1280.jpg");
 
 }
 
@@ -127,6 +135,10 @@ li{
     object-fit: cover; /* use the one you need */
 }
 
+
+#rrss{
+    color:green;
+}
 
 
 @import "~bootstrap-icons/font/bootstrap-icons.css";

@@ -1,0 +1,58 @@
+{
+    "name": "Ana Moruja",
+    "backimage": "http://",
+    "profileImage": "https://media-exp1.licdn.com/dms/image/C4E03AQEdjs4L9rJ6fQ/profile-displayphoto-shrink_800_800/0/1651350674722?e=1665619200&v=beta&t=y1lBQWByc5sKmFb4b0DBaQZBTRCaIFNz_f3khHRwzKg",
+    "company": {
+        "name": "Swappie",
+        "img": "http://",
+        "url": "http://"
+    },
+"school": {
+    "name" : "UBA",
+    "img" : "http://",
+    "url" : "http://"
+},
+"position": "Fullstack Developer Jr.",
+
+"location": "Leipzig, Alemania",
+"about": "Bilingüe, trabajadora, y lista para unirme a mi próximo equipo. Con actitud motivada y una variedad de habilidades eficaces para promover la misión de su empresa. Capaz de autogestionarme de manera efectiva durante proyectos independientes, así como colaborar en un entorno de equipo.",
+"aboutDescription": "Bilingüe, trabajadora, y lista para unirme a mi próximo equipo. Con actitud motivada y una variedad de habilidades eficaces para promover la misión de su empresa. Capaz de autogestionarme de manera efectiva durante proyectos independientes, así como colaborar en un entorno de equipo.",
+"experience": [
+    {
+        "company": "Swappie",
+        "language":"Francés",
+        "level":"A2"
+    }
+    ],
+"projects":[
+    {
+        "link":"https://anamornig.github.io/portfolio/",
+        "img":"https://i.ibb.co/3sXQbPQ/Captura-de-Pantalla-2022-08-11-a-la-s-20-34-27.png",
+        "title":"Portfolio de fotografia",
+        "date":"2021",
+        "description":"Exposicion de mis propias fotos, artisticas y comerciales, fotoperiodismo y trabajo como artista. Hecho en HTMl y CSS"
+    },
+    {
+        "link":"https://anamornig.github.io/tasklist/",
+        "img":"https://i.ibb.co/3sXQbPQ/Captura-de-Pantalla-2022-08-11-a-la-s-20-34-27.png",
+        "title":"Tasklist",
+        "date":"2022",
+        "description":"Lista de tareas generada en Angular, con posibilidad de agregar mas o borrar"
+    },
+    {
+        "link":"https://github.com/anamornig/Valana-Blog",
+        "img":"https://i.ibb.co/3sXQbPQ/Captura-de-Pantalla-2022-08-11-a-la-s-20-34-27.png",
+        "title":"Valana Blog",
+        "date":"2022",
+        "description":"Proyecto desarrollado en clases, en el curso de Python de CoderHouse. Valana es un blog de viajes donde se pueden visualizar posteos, fotos y los paises que visitamos. Para poder crear, actualizar o borrar un posteo se debe loguear el usuario. También se puede personalizar poniendo un avatar"
+    },
+    {
+        "link":"https://anamornig.github.io/analogfilmshop/",
+        "img":"https://i.ibb.co/3sXQbPQ/Captura-de-Pantalla-2022-08-11-a-la-s-20-34-27.png",
+        "title":"Analog Film Shop",
+        "date":"2022",
+        "description":"Product landing page exercise form FreeCodeCamp, HTML & CSS"
+    }
+]
+
+}
